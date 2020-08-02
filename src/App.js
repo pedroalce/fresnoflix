@@ -3,9 +3,11 @@ import Menu from './components/Menu'
 
 function App() {
   return (
-    <div>
+    <div style={ {background: "#141414" }}>
+
+
       <Menu/>
-    Hello World
+    
     </div>
   );
 }
