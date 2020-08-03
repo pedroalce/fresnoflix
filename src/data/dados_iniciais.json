@@ -1,183 +1,351 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Sua Alegria foi Cancelada.",
+      "link": "#",
+      "cor": "#CCFF00",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Merchan SAFC",
+        "url": "https://www.fresnoshop.com.br/edicao-especial/sua-alegria-foi-cancelada"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "BROKEN DREAMS [STRESS - DOMMAGE - INSOMNIE]",
+          "url": "https://www.youtube.com/watch?v=ByNrnqbjOUE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "o arrocha mais triste do mundo",
+          "url": "https://youtu.be/aRYlA2HJwpw"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "we'll fight together",
+          "url": "https://youtu.be/HUkBGOltoqA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "isso não é um teste",
+          "url": "https://youtu.be/NXpwZfs6LD0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "sua alegria foi cancelada feat jade baraldo",
+          "url": "https://www.youtube.com/watch?v=rPkWHYY9CzQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "convicção",
+          "url": "https://www.youtube.com/watch?v=HJSTs4nlyFQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "de verdade",
+          "url": "https://www.youtube.com/watch?v=W4FsbQbnGoQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
+          "titulo": "cada acidente ft tuyo",
+          "url": "https://www.youtube.com/watch?v=8mzOUwNr5Tc"
+        },  
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "quando eu caí",
+          "url": "https://www.youtube.com/watch?v=kIEJJiUMGVU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
+          "titulo": "eu não sei lidar",
+          "url": "https://www.youtube.com/watch?v=CK81YsV8A70"
+        }  
+
+
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Clipes",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Quarentemo: Uma camisa = cesta básica",
+        "url": "https://www.fresnoshop.com.br/doequarentemo"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "BROKEN DREAMS [STRESS - DOMMAGE - INSOMNIE] feat. Jason Aalon Butler of FEVER333",
+          "url": "https://youtu.be/ByNrnqbjOUE"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Isso Não É Um Teste",
+          "url": "https://youtu.be/jhkQPkX2cj8"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Cada Acidente (ft. Tuyo)",
+          "url": "https://youtu.be/4qjxsBlB-pU"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "De verdade",
+          "url": "https://youtu.be/LsIF3ne-zBY"
+        }, 
+        {
+          "titulo": "Hoje Sou Trovão, parte 2 ft Rashid e Caetano Veloso",
+          "url": "https://youtu.be/KhOWw8u-Zpw"
+        },
+        {
+          "titulo": "Convicção",
+          "url": "https://youtu.be/G3KnE-c9CTA"
+        },
+        {
+          "titulo": "Onde fica a estrela",
+          "url": "https://youtu.be/jmZAaSmMG8E"
+        },
+        {
+          "titulo": "O Ar",
+          "url": "https://youtu.be/2o_F6dkxyKI"
+        },
+        {
+          "titulo": "Poeira Estelar",
+          "url": "https://youtu.be/WVjb_oBwhVo"
+        },
+        {
+          "titulo": "Acordar",
+          "url": "https://youtu.be/SmIGWTtsfaI"
+        },
+        {
+          "titulo": "Sobreviver e Acreditar",
+          "url": "https://youtu.be/DrnabgCK2fI"
+        },
+        {
+          "titulo": "Sutjeska / Farol",
+          "url": "https://youtu.be/QfObaecWMCg"
+        },
+        {
+          "titulo": "Maior Que As Muralhas",
+          "url": "https://youtu.be/eAaNEMJeC7U"
+        },
+        {
+          "titulo": "Infinito",
+          "url": "https://youtu.be/UXLfnchfP8U"
+        },
+        {
+          "titulo": "Porto Alegre",
+          "url": "https://youtu.be/Rl6bWN_OR3g"
+        },
+        {
+          "titulo": "Eu Sei",
+          "url": "https://youtu.be/jo8lQVtBTFk"
+        },
+        {
+          "titulo": "Deixa o tempo",
+          "url": "https://youtu.be/74-UP7LfLdU"
+        },
+        {
+          "titulo": "Desde Quando Você Se Foi",
+          "url": "https://youtu.be/E5PQGrRufe8"
+        },
+        {
+          "titulo": "Uma Música",
+          "url": "https://youtu.be/mRFVUuBlpHM"
+        },
+        {
+          "titulo": "Alguém Que Te Faz Sorrir",
+          "url": "https://youtu.be/WkE5yNP-6xQ"
+        },
+        {
+          "titulo": "Quebre As Correntes (DIRECTOR'S CUT)",
+          "url": "https://youtu.be/H06mxJ17HRE"
+        },
+        {
+          "titulo": "Quebre As Correntes",
+          "url": "https://youtu.be/xLhiPteGCMY"
         }
+        
+      
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "NATUREZA CAOS:LIVE",
+      "cor": "#f65963",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "CD NATUREZA CAOS:LIVE",
+        "url": "https://www.fresnoshop.com.br/cd-fresno-natureza-caos-live-"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Crocodilia",
+          "url": "https://youtu.be/n_GYSp8HXO4Y"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Eu Sou a Maré Viva",
+          "url": "https://youtu.be/_MHgGrrcdPM"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Diga, parte 2",
+          "url": "https://youtu.be/SVk1bD5U2d4"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Manifesto",
+          "url": "https://youtu.be/Kb0Nf52CtxI"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Onde Fica a Estrela",
+          "url": "https://youtu.be/F17NuwjQmLw"
+        },
+        {
+          "titulo": "Redenção",
+          "url": "https://youtu.be/7EUwS_Scbug"
+        },
+        {
+          "titulo": "Acordar",
+          "url": "https://youtu.be/AKhNL4OPmlE"
+        },
+        {
+          "titulo": "Natureza Caos",
+          "url": "https://youtu.be/122PWK6PHgo"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "SRPSKA SESSIONS",
+      "cor": "#828186",
+      "link_extra": {
+        "text": "Combo Fresno 20 anos infinito",
+        "url": "https://www.fresnoshop.com.br/combo-masculino-fresno-20-anos-infinito"
+      },
+      "videos": [
+        {
+          "titulo": "Infinito",
+          "url": "https://youtu.be/8ovkIN75z-Q"
+        },
+        {
+          "titulo": "Sutjeska / Farol",
+          "url": "https://youtu.be/ICUfExz64G8"
+        },
+        {
+          "titulo": "Eu Sou A Maré Viva",
+          "url": "https://youtu.be/KJ2-g5EhUKk"
+        },
+        {
+          "titulo": "Cada Poça dessa Rua Tem um Pouco de Minhas Lágrimas",
+          "url": "https://youtu.be/m4kbHGe5qJc"
+        },
+        {
+          "titulo": "Sobreviver e Acreditar",
+          "url": "https://youtu.be/e_U4eOqjjCQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Fresno 15 Anos Ao Vivo",
+      "cor": "#449fc8",
+      "link_extra": {
+        "text": "Combo Fresno 20 anos A Sinfonia de Tudo que Há",
+        "url": "https://www.fresnoshop.com.br/combo-feminino-fresno-20-anos-a-sinfonia-de-tudo-que-ha"
+      },
+      "videos": [
+        {
+          "titulo": "Intro + A Prova de Balas (Ao Vivo)",
+          "url": "https://youtu.be/4YgxBYyilKg"
+        },
+        {
+          "titulo": "Die Lüge",
+          "url": "https://youtu.be/dwEszNGNMc4"
+        },
+        {
+          "titulo": "Manifesto (Ao Vivo) ft. Emicida",
+          "url": "https://youtu.be/JjC72ELmRaI"
+        },
+        {
+          "titulo": "A Minha História Não Acaba Aqui (Ao Vivo)",
+          "url": "https://youtu.be/-oVJNApQW6w"
+        },
+        {
+          "titulo": "Eu Sei (Ao Vivo)",
+          "url": "https://youtu.be/YjHymlB3-C4"
+        },
+        {
+          "titulo": "Sobreviver e Acreditar (Ao Vivo)",
+          "url": "https://youtu.be/eN_WwWRmXw8"
+        },
+        {
+          "titulo": "Redenção (Ao Vivo)",
+          "url": "https://youtu.be/_DAfdW7UCAE"
+        },
+        {
+          "titulo": "Diga, Parte 2 (Ao Vivo)",
+          "url": "https://youtu.be/f1pBfpWCzF8"
+        },
+        {
+          "titulo": "Deixa o Tempo (Ao Vivo)",
+          "url": "https://youtu.be/ivZyTzl6YQM"
+        },
+        {
+          "titulo": "Eu Sou a Maré Viva (Ao Vivo)",
+          "url": "https://youtu.be/JB4zP0nVJ3E"
+        },
+        {
+          "titulo": "Alguém Que Te Faz Sorrir (Ao Vivo)",
+          "url": "https://youtu.be/NpnUWL4xYsI"
+        },
+        {
+          "titulo": "Duas Lágrimas (Ao Vivo)",
+          "url": "https://youtu.be/IRI72sRk6h8"
+        },
+        {
+          "titulo": "Relato de um Homem de Bom Coração (Ao Vivo)",
+          "url": "https://youtu.be/2_WQCzuq5XA"
+        },
+        {
+          "titulo": "Milonga (Ao Vivo)",
+          "url": "https://youtu.be/M3AooQFt7X0"
+        },
+        {
+          "titulo": "O Resto é Nada Mais (O Sonho de um Visconde) (Ao Vivo)",
+          "url": "https://youtu.be/d7UyVBK2F6E"
+        },
+        {
+          "titulo": "Infinito (Ao Vivo)",
+          "url": "https://youtu.be/jMzBvYRyX34"
+        },
+        {
+          "titulo": "Acordar (Ao Vivo)",
+          "url": "https://youtu.be/ivB8cOQTQnU"
+        },
+        {
+          "titulo": "Quando Crescer (Ao Vivo)",
+          "url": "https://youtu.be/C97U57a_ypw"
+        },
+        {
+          "titulo": "Vida (Biografia em Ré Menor) (Ao Vivo)",
+          "url": "https://youtu.be/DSiLnVoH5Zk"
+        },
+        {
+          "titulo": "Maior Que as Muralhas (Ao Vivo)",
+          "url": "https://youtu.be/_0o_1ZlGmb8"
+        },
+        {
+          "titulo": "Quebre as Correntes (Ao Vivo)",
+          "url": "https://youtu.be/4omGBqJmp0Q"
+        },
+        {
+          "titulo": "Onde Está (Ao Vivo)",
+          "url": "https://youtu.be/1OrozZDnWe4"
+        },
+        {
+          "titulo": "Revanche (Ao Vivo)",
+          "url": "https://youtu.be/3Em_5YNgc54"
+        }
+      ]
+    },
+    {
+      "titulo": "VEVO Sessions",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Nova Coleção Broken Dreams",
+        "url": "https://www.fresnoshop.com.br/loja/busca.php?loja=249009&palavra_busca=broken+dreams"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Manifesto",
+          "url": "https://youtu.be/SrzSzzINnqQ"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Acordar",
+          "url": "https://youtu.be/h0vZMKwE0Iw"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Infinito",
+          "url": "https://youtu.be/l4GfeKdfKvM"
         }
       ]
     }
